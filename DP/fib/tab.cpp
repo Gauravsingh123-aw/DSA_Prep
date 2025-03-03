@@ -24,3 +24,6 @@ cin>>n;
 cout<<f(n+1);
 return 0;
 }
+
+//tc - O(n)
+//sp -O(1)
